@@ -1,2 +1,2 @@
-# ir_remote
+# tvremote
 Code for a custom infrared tv remote
